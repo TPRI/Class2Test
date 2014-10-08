@@ -2,6 +2,6 @@ Here are some notes
 
 -blah blah
 -here is an edit
--here is a mistake
 -carry on regardless
+
 
